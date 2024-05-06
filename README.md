@@ -1,3 +1,3 @@
-# sample-service
+# sample-job
 
-Sample Service
+Sample job to deploy to Google Cloud Run.
